@@ -1,115 +1,143 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0078D4&height=200&section=header&text=Nishant%20Singh&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+AWS+%7C+Azure+%7C+Kubernetes;CI%2FCD+Automation+Expert;Terraform+%7C+Docker+%7C+Microservices;4%2B+Years+Experience"/>
+</p>
+
+---
+
 # 👋 Hi, I'm Nishant Singh  
 
-🚀 **DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform | 4+ Years Experience**
+🚀 **DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD | 4+ Years Experience**
 
 ---
 
 ## 💡 About Me  
 
-I’m a passionate **DevOps Engineer with 4+ years of experience** in building scalable, secure, and highly available cloud-native systems.  
+<img align="right" alt="devops" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I specialize in **automating infrastructure, optimizing deployments, and improving system reliability** using modern DevOps practices.
-
----
-
-## 🔭 Currently Working On  
-
-- ☁️ Cloud-native infrastructure & Kubernetes (EKS)  
-- 🔁 CI/CD automation using Jenkins & Azure DevOps  
-- 🏗️ Infrastructure as Code using Terraform  
+- 💼 DevOps Engineer with **4+ years experience**
+- ☁️ Working on **AWS & Azure Cloud**
+- ⚙️ Expert in **CI/CD & Infrastructure Automation**
+- 🔐 Focus on **DevSecOps & Secure Systems**
+- 📈 Building **highly available (99.9%) systems**
 
 ---
 
-## 🌱 Currently Learning  
+## 🚀 Key Achievements  
 
-- Advanced Kubernetes & GitOps  
-- DevSecOps & Security Automation  
-- AWS Cost Optimization Strategies  
-
----
-
-## 🤝 Looking to Collaborate On  
-
-- Open-source DevOps projects  
-- Cloud automation & infrastructure tools  
-
----
-
-## 🆘 Looking for Help With  
-
-- Advanced System Design & Distributed Architecture  
-- Scaling Microservices efficiently  
-
----
-
-## 💬 Ask Me About  
-
-- AWS (EC2, S3, IAM, EKS, VPC)  
-- Kubernetes, Docker, Microservices  
-- CI/CD pipelines & automation  
-- Monitoring (Prometheus, Grafana, ELK)  
-
----
-
-## ⚡ Key Achievements  
-
-- 🚀 Reduced deployment time by **60%**  
-- 💰 Optimized AWS cloud costs by **25%**  
-- ⚡ Maintained **99.9% uptime**  
-- 🔄 Improved deployment efficiency by **40%**  
+🏆 Reduced deployment time by **60%**  
+💰 Optimized cloud cost by **25%**  
+⚡ Maintained **99.9% uptime**  
+🚀 Improved deployment efficiency by **40%**
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### ☁️ Cloud  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
 
-### ⚙️ DevOps & CI/CD  
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+---
 
-### 🐳 Containers & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 🚀 Featured Projects  
 
-### 🏗️ Infrastructure as Code  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+---
 
-### 📊 Monitoring  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+## 🏦 Banking Cloud Infrastructure (Production Level)
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
 
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
+### 🔥 Overview  
+Enterprise-grade **banking infrastructure** deployed on AWS & Kubernetes with high availability and security.
+
+### ⚙️ Architecture  
+- Multi-AZ deployment (High Availability)  
+- AWS VPC, ALB, Auto Scaling  
+- Kubernetes (EKS) for microservices  
+- Secure IAM roles & policies  
+
+### 🚀 Key Features  
+- 🔐 Secure access with IAM & RBAC  
+- 📈 Auto-scaling using HPA  
+- 🔄 CI/CD pipeline (Jenkins + Azure DevOps)  
+- 📊 Monitoring (Prometheus + Grafana + ELK)  
+
+---
+
+## 🛒 E-Commerce Microservices Platform  
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+
+### 🔥 Overview  
+Cloud-native microservices application deployed using Kubernetes.
+
+### 🚀 Features  
+- Dockerized services  
+- Kubernetes deployment (EKS + AKS)  
+- Ingress + Load Balancer  
+- CI/CD automation  
+
+---
+
+## 🔁 CI/CD Automation Pipeline  
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+
+### 🔥 Overview  
+End-to-end CI/CD pipeline for automated deployment.
+
+### 🚀 Features  
+- Jenkins + GitHub Actions  
+- Automated build & deploy  
+- Integrated SonarQube security scan  
+
+---
+
+## 🏗️ Terraform Multi-Cloud Infrastructure  
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+
+### 🔥 Overview  
+Infrastructure provisioning using Terraform for AWS & Azure.
+
+### 🚀 Features  
+- Remote backend (S3 + DynamoDB)  
+- AWS + Azure resources  
+- Modular Terraform code  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nishantsingh-devops  
-- 💻 GitHub: https://github.com/nishant-singh-devops  
-- 📧 Email: nishant.singh.devops96@gmail.com  
+<p align="center">
+<a href="https://www.linkedin.com/in/nishantsingh-devops"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nishant.singh.devops96@gmail.com"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-
-I love optimizing systems — whether it's cutting deployment time by **60%** or reducing cloud costs by **25%** 🚀
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0078D4&height=120&section=footer"/>
+</p>
