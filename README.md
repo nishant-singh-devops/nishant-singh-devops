@@ -1,52 +1,70 @@
-<!-- HEADER BANNER -->
+<!-- 🔵 BRAND HEADER (GRADIENT + NAME FIRST) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0078D4&height=200&section=header&text=Nishant%20Singh&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00C9FF&height=250&section=header&text=Nishant%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<!-- TYPING EFFECT -->
+<!-- 🔥 BRAND HEADLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+AWS+%7C+Azure+%7C+Kubernetes;CI%2FCD+Automation+Expert;Terraform+%7C+Docker+%7C+Microservices;4%2B+Years+Experience"/>
+  <b style="font-size:22px; color:#00C9FF;">
+    DevOps Engineer | Multi-Cloud Specialist 🚀
+  </b>
+</p>
+
+<!-- 🌈 COLOR TAGS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+<!-- ⚡ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=20&center=true&vCenter=true&width=700&lines=4%2B+Years+DevOps+Experience;Cloud+Automation+Expert;CI%2FCD+%7C+Kubernetes+%7C+Terraform;Building+Scalable+Systems"/>
+</p>
+
+---
+<!-- 🔵 HEADER (CLEAN PROFESSIONAL BANNER) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=circle&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Nishant%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <b>🚀 DevOps Engineer | Multi-Cloud (AWS ☁️ + Azure) | Kubernetes | Terraform | CI/CD</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=20&center=true&vCenter=true&width=650&lines=4%2B+Years+DevOps+Experience;Cloud+Automation+Specialist;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+DevSecOps+%7C+Microservices"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Nishant Singh  
+# 👨‍💻 About Me  
 
-🚀 **DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD | 4+ Years Experience**
-
----
-
-## 💡 About Me  
-
-<img align="right" alt="devops" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 💼 DevOps Engineer with **4+ years experience**
-- ☁️ Working on **AWS & Azure Cloud**
-- ⚙️ Expert in **CI/CD & Infrastructure Automation**
-- 🔐 Focus on **DevSecOps & Secure Systems**
-- 📈 Building **highly available (99.9%) systems**
+- 💼 **DevOps Engineer with 4+ years of experience**
+- ☁️ Hands-on with **AWS & Azure Cloud Platforms**
+- ⚙️ Strong in **CI/CD Automation & Infrastructure as Code**
+- 🔐 Focused on **DevSecOps & Security Best Practices**
+- 📊 Delivering **High Availability (99.9% uptime)** systems
 
 ---
 
-## 🚀 Key Achievements  
+# 🏆 Key Achievements  
 
-🏆 Reduced deployment time by **60%**  
-💰 Optimized cloud cost by **25%**  
-⚡ Maintained **99.9% uptime**  
-🚀 Improved deployment efficiency by **40%**
+✔ 🚀 Reduced deployment time by **60%**  
+✔ 💰 Optimized cloud cost by **25%**  
+✔ ⚡ Maintained **99.9% uptime**  
+✔ 📈 Improved deployment efficiency by **40%**  
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,jenkins,github,linux,ansible" />
+
 </p>
 
 ---
@@ -55,89 +73,85 @@
 
 ---
 
-## 🏦 Banking Cloud Infrastructure (Production Level)
+## 🏦 Banking Cloud Infrastructure  
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
+🔹 **Enterprise-grade production system on AWS + Kubernetes**
 
-### 🔥 Overview  
-Enterprise-grade **banking infrastructure** deployed on AWS & Kubernetes with high availability and security.
-
-### ⚙️ Architecture  
-- Multi-AZ deployment (High Availability)  
+### Highlights:
+- Multi-AZ High Availability Architecture  
 - AWS VPC, ALB, Auto Scaling  
-- Kubernetes (EKS) for microservices  
-- Secure IAM roles & policies  
+- Kubernetes (EKS) Microservices Deployment  
+- Secure IAM + RBAC  
 
-### 🚀 Key Features  
-- 🔐 Secure access with IAM & RBAC  
-- 📈 Auto-scaling using HPA  
-- 🔄 CI/CD pipeline (Jenkins + Azure DevOps)  
-- 📊 Monitoring (Prometheus + Grafana + ELK)  
+### Impact:
+✔ Highly secure banking infra  
+✔ Scalable & fault-tolerant system  
 
 ---
 
 ## 🛒 E-Commerce Microservices Platform  
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+🔹 **Cloud-native scalable application**
 
-### 🔥 Overview  
-Cloud-native microservices application deployed using Kubernetes.
-
-### 🚀 Features  
+### Features:
 - Dockerized services  
-- Kubernetes deployment (EKS + AKS)  
-- Ingress + Load Balancer  
+- Kubernetes (EKS + AKS)  
+- Load Balancer + Ingress  
 - CI/CD automation  
 
 ---
 
 ## 🔁 CI/CD Automation Pipeline  
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+🔹 **End-to-End DevOps Pipeline**
 
-### 🔥 Overview  
-End-to-end CI/CD pipeline for automated deployment.
-
-### 🚀 Features  
+### Stack:
 - Jenkins + GitHub Actions  
-- Automated build & deploy  
-- Integrated SonarQube security scan  
+- SonarQube Security Scan  
+- Automated Deployment  
 
 ---
 
-## 🏗️ Terraform Multi-Cloud Infrastructure  
+## 🏗️ Terraform Multi-Cloud Infra  
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+🔹 **Infrastructure as Code (AWS + Azure)**  
 
-### 🔥 Overview  
-Infrastructure provisioning using Terraform for AWS & Azure.
-
-### 🚀 Features  
-- Remote backend (S3 + DynamoDB)  
-- AWS + Azure resources  
-- Modular Terraform code  
+### Features:
+- Modular Terraform Code  
+- Remote Backend (S3 + DynamoDB)  
+- Multi-cloud provisioning  
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+# 📫 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nishantsingh-devops"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nishant.singh.devops96@gmail.com"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nishantsingh-devops">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nishant.singh.devops96@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-<!-- FOOTER -->
+# 🔥 Recruiter Note  
+
+💡 *I specialize in building scalable, secure, and automated cloud infrastructure with strong DevOps practices. Open to challenging DevOps & Cloud roles.*
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0078D4&height=120&section=footer"/>
+  ⭐ If you like my work, consider giving a star!
 </p>
